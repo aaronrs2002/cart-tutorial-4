@@ -1,0 +1,33 @@
+.capitalize {
+  text-transform: capitalize;
+}
+
+.error {
+  border: #ff0000 1px solid;
+}
+
+.hide {
+  display: none;
+}
+
+.btn-group.form-control {
+  padding: 0;
+
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.cartPanel .list-group {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+
+div.animated[role="alert"] {
+  margin-top: 5%;
+  position: fixed;
+  z-index: 150;
+  width: 100%;
+}
